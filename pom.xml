@@ -11,4 +11,12 @@
 		<groupId>com.ianzepp.appenda</groupId>
 		<version>1.0</version>
 	</parent>
+
+	<dependencies>
+		<dependency>
+			<groupId>com.ianzepp.appenda</groupId>
+			<artifactId>appenda-base-common</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
